@@ -56,11 +56,11 @@ my_list = ["Batgirl", "Batman", "Supergirl", "Superman", "Aquaman"]
 
 my_int = [2, 3, 4, 5, 3, 2, 4, 5]
 
-# if "Robin" not in my_list:
-#     my_list.append("Robin")
+if "Robin" not in my_list:
+    my_list.append("Robin")
 
-# for hero in my_list:
-#     print(hero)
+for hero in my_list:
+    print(hero)
 
 my_list1 = []
 
